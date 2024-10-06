@@ -1,6 +1,6 @@
 project_id: personal_decoration_door_latch_spacer
 project_name: Personal Decoration Door Latch Spacer
 project_repo: https://github.com/oomlout/personal_decoration_door_latch_spacer
-production_format:
+production_format_personal_decoration_door_latch_spacer_main:
   oolc_1:
     file_location: source_files/oolc_1.cdr
